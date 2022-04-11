@@ -1,0 +1,8 @@
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\bin\Debug\homeworkFive.exe.config
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\bin\Debug\homeworkFive.exe
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\bin\Debug\homeworkFive.pdb
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\obj\Debug\homeworkFive.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\obj\Debug\homeworkFive.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\obj\Debug\homeworkFive.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\obj\Debug\homeworkFive.exe
+C:\Users\lunmars\source\repos\homeworkFive\homeworkFive\obj\Debug\homeworkFive.pdb

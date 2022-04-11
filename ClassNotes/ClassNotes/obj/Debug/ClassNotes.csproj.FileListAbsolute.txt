@@ -1,0 +1,8 @@
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\bin\Debug\ClassNotes.exe.config
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\bin\Debug\ClassNotes.exe
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\bin\Debug\ClassNotes.pdb
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\obj\Debug\ClassNotes.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\obj\Debug\ClassNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\obj\Debug\ClassNotes.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\obj\Debug\ClassNotes.exe
+C:\Users\lunmars\source\repos\ClassNotes\ClassNotes\obj\Debug\ClassNotes.pdb
