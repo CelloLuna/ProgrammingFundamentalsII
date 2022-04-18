@@ -1,0 +1,11 @@
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\lunmars\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
