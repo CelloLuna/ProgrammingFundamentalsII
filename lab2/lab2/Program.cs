@@ -9,7 +9,7 @@ namespace lab2
             Console.Write("Number One: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Number 2: ");CannotUnloadAppDomainException 
+            Console.Write("Number 2: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             int result = num1 * num2;
