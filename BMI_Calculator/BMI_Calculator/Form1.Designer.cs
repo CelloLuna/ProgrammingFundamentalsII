@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.titleLbl = new System.Windows.Forms.Label();
             this.weightLbl = new System.Windows.Forms.Label();
             this.heightLbl = new System.Windows.Forms.Label();
@@ -46,7 +47,7 @@
             this.titleLbl.Font = new System.Drawing.Font("MV Boli", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.titleLbl.Location = new System.Drawing.Point(315, 28);
             this.titleLbl.Name = "titleLbl";
-            this.titleLbl.Size = new System.Drawing.Size(264, 46);
+            this.titleLbl.Size = new System.Drawing.Size(211, 37);
             this.titleLbl.TabIndex = 0;
             this.titleLbl.Text = "BMI Caclulator";
             // 
@@ -150,6 +151,7 @@
             this.Controls.Add(this.heightLbl);
             this.Controls.Add(this.weightLbl);
             this.Controls.Add(this.titleLbl);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
