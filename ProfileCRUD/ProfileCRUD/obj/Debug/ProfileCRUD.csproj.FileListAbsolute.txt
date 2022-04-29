@@ -1,0 +1,11 @@
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\bin\Debug\ProfileCRUD.exe.config
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\bin\Debug\ProfileCRUD.exe
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\bin\Debug\ProfileCRUD.pdb
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.Form1.resources
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.Properties.Resources.resources
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.csproj.GenerateResource.cache
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.exe
+C:\Users\lunmars\source\repos\ProfileCRUD\ProfileCRUD\obj\Debug\ProfileCRUD.pdb

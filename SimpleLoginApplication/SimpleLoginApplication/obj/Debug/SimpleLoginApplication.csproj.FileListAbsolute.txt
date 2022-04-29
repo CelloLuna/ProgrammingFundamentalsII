@@ -1,0 +1,12 @@
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\bin\Debug\SimpleLoginApplication.exe.config
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\bin\Debug\SimpleLoginApplication.exe
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\bin\Debug\SimpleLoginApplication.pdb
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.Properties.Resources.resources
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.csproj.GenerateResource.cache
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.exe
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.pdb
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.Login.resources
+C:\Users\lunmars\source\repos\SimpleLoginApplication\SimpleLoginApplication\obj\Debug\SimpleLoginApplication.WelcomeForm.resources
