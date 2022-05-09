@@ -1,0 +1,11 @@
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\bin\Debug\EmployeeProfile.exe.config
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\bin\Debug\EmployeeProfile.exe
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\bin\Debug\EmployeeProfile.pdb
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.Properties.Resources.resources
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.csproj.GenerateResource.cache
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.exe
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.pdb
+C:\Users\lunmars\source\repos\EmployeeProfile\EmployeeProfile\obj\Debug\EmployeeProfile.Form1.resources

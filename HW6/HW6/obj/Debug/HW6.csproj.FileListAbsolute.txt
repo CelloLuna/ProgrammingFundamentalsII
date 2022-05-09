@@ -1,0 +1,12 @@
+C:\Users\lunmars\source\repos\HW6\HW6\bin\Debug\HW6.exe
+C:\Users\lunmars\source\repos\HW6\HW6\bin\Debug\HW6.exe.config
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.csproj.AssemblyReference.cache
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.informationPage.resources
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.loginForm.resources
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.Properties.Resources.resources
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.csproj.GenerateResource.cache
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.exe
+C:\Users\lunmars\source\repos\HW6\HW6\obj\Debug\HW6.pdb
+C:\Users\lunmars\source\repos\HW6\HW6\bin\Debug\HW6.pdb
